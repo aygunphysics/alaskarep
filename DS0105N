@@ -1,0 +1,64 @@
+Add your code below following the instructions given in the course
+Type Markdown and LaTeX:  α2
+ 
+# Welcome to my JupyterLab notebook!
+# Welcome to my JupyterLab notebook!
+# 
+# In this notebook, I will be exploring various datasets 
+I hope you find this notebook informative and helpful
+Popular Data Science Languages
+Python
+R
+SQL
+Popular Data Science Libraries
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+Tool	Description
+Python	A popular programming language used for data science and machine learning.
+R	A language used for statistical computing and graphics.
+SQL	A domain-specific language used for managing relational databases.
+Pandas	A Python library for data manipulation and analysis.
+NumPy	A Python library for numerical computing.
+Scikit-learn	A Python library for machine learning tasks such as classification, regression, and clustering.
+Introduction to Arithmetic Expressions
+Arithmetic expressions are fundamental in many fields of mathematics and computer science, including data science. They involve basic mathematical operations such as addition, subtraction, multiplication, and division, as well as more advanced operations like exponentiation and logarithms. In this notebook, we will explore some examples of arithmetic expressions and how they can be used in data science.
+
+# Multiplication
+x = 5
+y = 10
+z = x * y
+print(z)
+​
+# Addition
+a = 15
+b = 20
+c = a + b
+print(c)
+​
+50
+35
+minutes = 120
+hours = minutes / 60
+print("120 minutes is equal to", hours, "hours.")
+​
+120 minutes is equal to 2.0 hours.
+Objectives
+Understand the basics of data science
+Learn common data science libraries and tools
+Develop skills in data preprocessing and cleaning
+Explore data visualization techniques
+Understand machine learning concepts and algorithms
+Apply machine learning techniques to real-world problems
+Learn how to evaluate and optimize models
+Develop skills in deep learning and neural networks
+Understand natural language processing and text analysis
+Learn about big data technologies and distributed computing
+Apply data science skills to solve business problems
+Author
+Aygun Sahin
